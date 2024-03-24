@@ -1,0 +1,2 @@
+Project Descriptio:
+In this project, a push button was used to control the opening or closing of the relay, and thus to turn on or off the motor. An LED was used for notification to alert the user when the motor is turned on.
